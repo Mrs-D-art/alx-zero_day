@@ -1,1 +1,4 @@
-git merge update_script
+git checkout
+git merge
+git pull
+git push
